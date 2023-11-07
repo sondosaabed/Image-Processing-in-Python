@@ -5,3 +5,9 @@ Images are everywhere! We live in a time where images contain lots of informatio
 In this course, I have learned to process, transform, and manipulate images, even when they come in thousands. I have also learned to restore damaged images, perform noise reduction, smart-resize images, count the number of dots on a dice, apply facial detection, and much more, using scikit-image. 
 
 After completing this course, I was able to apply my knowledge in my graduation project and many more.
+
+![image](https://github.com/sondosaabed/Image-Processing-in-Python/assets/65151701/098accfd-d76b-4652-9823-17aa51a538e6)
+
+
+### Course Material
+
