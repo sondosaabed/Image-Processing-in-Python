@@ -6,9 +6,9 @@ In this course, I have learned to process, transform, and manipulate images, eve
 
 After completing this course, I was able to apply my knowledge in my graduation project and many more.
 
-![image](https://github.com/sondosaabed/Image-Processing-in-Python/assets/65151701/098accfd-d76b-4652-9823-17aa51a538e6)
+![Certificate](https://github.com/sondosaabed/Image-Processing-in-Python/assets/65151701/ce852de2-00e6-4d5f-a60a-c6780811ee8e)
 
 
 ### Course Material
 
-![Material](https://github.com/sondosaabed/Image-Processing-in-Python/assets/65151701/e7cc073b-5b49-4263-b2b3-4881b19d4f2f)
+![Material](https://github.com/sondosaabed/Image-Processing-in-Python/assets/65151701/7548c2be-f518-4618-932b-752732e4b383)
